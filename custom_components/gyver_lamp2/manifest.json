@@ -9,8 +9,5 @@
   "codeowners": ["@dungeon77"],
   "config_flow": true,
   "iot_class": "local_polling"
-  "icons": {
-    "svg": "icon.svg"
-  }
-
 }
+
