@@ -1,0 +1,14 @@
+{
+  "domain": "gyver_lamp2",
+  "name": "Gyver Lamp 2",
+  "version": "1.0.0",
+  "documentation": "",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@dungeon77"],
+  "config_flow": true,
+  "iot_class": "local_polling"
+  "icons": {
+    "svg": "icon.svg"
+  }
+}
