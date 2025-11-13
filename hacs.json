@@ -1,0 +1,7 @@
+{
+  "name": "Gyver Lamp 2",
+  "render_readme": true,
+  "domains": ["light", "button", "sensor", "select", "number", "switch", "text"],
+  "homeassistant": "2023.8.0",
+  "iot_class": "Local Polling"
+}
